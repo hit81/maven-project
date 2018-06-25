@@ -10,8 +10,7 @@ public class Greeter {
 	}
 
 	/**
-	 * @param something
-	 *            is there
+	 * @param something is there
 	 * @return greeting is string
 	 */
 	public final String greet(final String someone) {
